@@ -16,13 +16,13 @@ This is a website to generate random images of megumin characters from the Konos
 Clone the repository:
 
 ```bash
-git clone https://github.com/garpra/megumin-random-image-web
+git clone https://github.com/garpra/megumin-image-web
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd megumin-random-image-web
+cd megumin-image-web
 ```
 
 Open index.html in your browser or use Live Server.
