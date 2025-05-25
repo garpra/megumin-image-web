@@ -8,6 +8,9 @@ This is a website to generate random images of megumin characters from the Konos
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**API I use:**
+- [waifu.pics](https://waifu.pics/)
+
 ## 🚀 Getting Started
 
 Clone the repository:
